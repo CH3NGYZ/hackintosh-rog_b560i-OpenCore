@@ -2,10 +2,10 @@
 
 ```
 motherboard :  rog-b560i-itx
-CPU         :  i5-10400F
-GPU         :  AMD 6600XT
+CPU         :  i5-10400F     (Intel GEN 10 CPU with Integrated Graphics is recommended)
+GPU         :  AMD 6600XT    (Drive-free in MACOS Monterey)
+AppleAlc layout-id: 7
 
-AppleAlc   layout-id: 7
 ```
 
 #### This motherboard uses CNVIO2 interface, so the WI-FI card cannot be replaced with one using pci-e channel
