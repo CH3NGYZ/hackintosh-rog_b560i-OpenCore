@@ -1,7 +1,7 @@
 ## MACOS Monterey OpenCore Configuration
 
 ```
-motherboard :  rog-b560i-itx
+motherboard :  ROG_B560I-GAMING_WIFI
 CPU         :  i5-10400F     (Intel GEN 10 CPU with Integrated Graphics is recommended)
 GPU         :  AMD 6600XT    (Drive-free in MACOS Monterey)
 AppleAlc layout-id: 7
