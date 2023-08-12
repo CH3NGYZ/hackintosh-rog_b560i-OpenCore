@@ -1,3 +1,5 @@
+# This project is out of date and will not be updated
+
 ## MACOS Monterey OpenCore Configuration
 
 ```
